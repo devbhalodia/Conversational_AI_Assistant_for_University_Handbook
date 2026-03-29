@@ -1,0 +1,10 @@
+.env
+available_models.txt
+deep_eval_handson.py
+eval_data.py
+evaluation_report.json
+llm_evaluation.py
+updating_indices.py
+chroma_db/
+results/
+logs/

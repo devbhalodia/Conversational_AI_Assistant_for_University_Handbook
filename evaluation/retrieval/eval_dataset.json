@@ -1,0 +1,187 @@
+[
+  {
+    "query": "What is the name of the University that the students have been accepted to?",
+    "relevant_chunk_id": "text_2",
+    "chunk_type": "text"
+  },
+  {
+    "query": "What are the four sectors of impact that Ahmedabad University recognises as influencing social challenges and job opportunities?",
+    "relevant_chunk_id": "text_4",
+    "chunk_type": "text"
+  },
+  {
+    "query": "What is one of the ways in which recent batches of students at Ahmedabad University have been studying the history of science?",
+    "relevant_chunk_id": "text_26",
+    "chunk_type": "text"
+  },
+  {
+    "query": "What is the name of the one-of-a-kind programme in the world that exposes students to societal issues through experiential learning?",
+    "relevant_chunk_id": "text_28",
+    "chunk_type": "text"
+  },
+  {
+    "query": "What is the name of one of the pre-designed interdisciplinary majors in the Bachelor of Arts Programme?",
+    "relevant_chunk_id": "text_37",
+    "chunk_type": "text"
+  },
+  {
+    "query": "What are the three designated Thematic Studios offered in 2025-26?",
+    "relevant_chunk_id": "text_52",
+    "chunk_type": "text"
+  },
+  {
+    "query": "What is the minimum number of credits required from the Sports and Wellness domain?",
+    "relevant_chunk_id": "text_53",
+    "chunk_type": "text"
+  },
+  {
+    "query": "Can students change their majors to one hosted by a different School at the University?",
+    "relevant_chunk_id": "text_59",
+    "chunk_type": "text"
+  },
+  {
+    "query": "What services does the Programme Office provide for students regarding government schemes?",
+    "relevant_chunk_id": "text_68",
+    "chunk_type": "text"
+  },
+  {
+    "query": "Can you see the available courses from all Schools through the course registration system?",
+    "relevant_chunk_id": "text_78",
+    "chunk_type": "text"
+  },
+  {
+    "query": "How many days does the specially curated ISP courses last?",
+    "relevant_chunk_id": "text_115",
+    "chunk_type": "text"
+  },
+  {
+    "query": "What is the storage quota limit for alumni email IDs on the University domain?",
+    "relevant_chunk_id": "text_168",
+    "chunk_type": "text"
+  },
+  {
+    "query": "What type of formalities does the Office of International Affairs help international students complete?",
+    "relevant_chunk_id": "text_213",
+    "chunk_type": "text"
+  },
+  {
+    "query": "What is the exact date when the last day of Summer Internship Submission is due for Returning Students of all Programmes and Incoming Students of Graduate Programmes?",
+    "relevant_chunk_id": "table_1",
+    "chunk_type": "table"
+  },
+  {
+    "query": "What is the difference in credit hours between the total General Education Requirements and the total University Foundation in the Integrated Master of Science in Life Sciences Programme?",
+    "relevant_chunk_id": "table_2",
+    "chunk_type": "table"
+  },
+  {
+    "query": "What is the difference in credit hours between the Major Core and the Engineering Foundation requirements?",
+    "relevant_chunk_id": "table_3",
+    "chunk_type": "table"
+  },
+  {
+    "query": "What is the total number of credits in the Major Requirements module compared to the total number of credits in the General Education Requirements module?",
+    "relevant_chunk_id": "table_4",
+    "chunk_type": "table"
+  },
+  {
+    "query": "What is the difference in credits between the Major Requirements and the Skill-Based Courses?",
+    "relevant_chunk_id": "table_5",
+    "chunk_type": "table"
+  },
+  {
+    "query": "What is the difference in credit hours between the BS Major Requirements and the MS QF Requirements in the BxMx Programme?",
+    "relevant_chunk_id": "table_6",
+    "chunk_type": "table"
+  },
+  {
+    "query": "What is the total number of credits allocated to the \"Depth Electives\" in the BTech + MBA programme?",
+    "relevant_chunk_id": "table_7",
+    "chunk_type": "table"
+  },
+  {
+    "query": "What is the total number of credits in the BA Major Requirements compared to the total number of credits in the MS QF Requirements?",
+    "relevant_chunk_id": "table_8",
+    "chunk_type": "table"
+  },
+  {
+    "query": "What is the total number of credits in the Programme Core of the MMS in Heritage Management Requirements?",
+    "relevant_chunk_id": "table_9",
+    "chunk_type": "table"
+  },
+  {
+    "query": "What is the total number of credits required for the Major Electives component of the Major Requirements?",
+    "relevant_chunk_id": "table_10",
+    "chunk_type": "table"
+  },
+  {
+    "query": "What is the total number of credits allocated to Business Electives and Industry Electives in the MBA Requirements?",
+    "relevant_chunk_id": "table_11",
+    "chunk_type": "table"
+  },
+  {
+    "query": "What is the number of domains of engagement categorized under the \"Innovation\" area of influence?",
+    "relevant_chunk_id": "table_12",
+    "chunk_type": "table"
+  },
+  {
+    "query": "What is the contact email of the Programme Manager for the Bachelor of Arts (Honours) programme?",
+    "relevant_chunk_id": "table_13",
+    "chunk_type": "table"
+  },
+  {
+    "query": "What is the ratio of programme chairs to programme managers in the Family Business and Entrepreneurship Programme?",
+    "relevant_chunk_id": "table_14",
+    "chunk_type": "table"
+  },
+  {
+    "query": "What is the name of the Programme Chair for the Programme in Integrated Arts, and how does their email address differ from that of the Programme Manager for the same programme?",
+    "relevant_chunk_id": "table_15",
+    "chunk_type": "table"
+  },
+  {
+    "query": "What is the name of the Programme Manager shared by the Master of Technology in Microelectronics and Semiconductors and the Master of Technology in Composites?",
+    "relevant_chunk_id": "table_16",
+    "chunk_type": "table"
+  },
+  {
+    "query": "What is the difference in grade points between the highest and lowest qualitative performance levels at Ahmedabad University?",
+    "relevant_chunk_id": "table_17",
+    "chunk_type": "table"
+  },
+  {
+    "query": "What is the number of absences that triggers a grade drop for a 3-credit course with 26 sessions attended out of 30 total sessions?",
+    "relevant_chunk_id": "table_18",
+    "chunk_type": "table"
+  },
+  {
+    "query": "What percentage of tuition fees is refunded to students when they withdraw from a program up to 30 days from the commencement date of the academic semester?",
+    "relevant_chunk_id": "table_19",
+    "chunk_type": "table"
+  },
+  {
+    "query": "What is the difference in the number of sports facilities available between the University Centre - Indoor and the University Sports Complex - Outdoor?",
+    "relevant_chunk_id": "table_20",
+    "chunk_type": "table"
+  },
+  {
+    "query": "What is the difference in the number of E-Books and Print Books (Titles) available at the Central Library?",
+    "relevant_chunk_id": "table_21",
+    "chunk_type": "table"
+  },
+  {
+    "query": "How many AUSEAC members are listed as both a School Nominee and a Mentor?",
+    "relevant_chunk_id": "table_22",
+    "chunk_type": "table"
+  },
+  {
+    "query": "How many more historical sites are listed in the table compared to natural wonders?",
+    "relevant_chunk_id": "table_23",
+    "chunk_type": "table"
+  },
+  {
+    "query": "What is the specific contact information for users to reach out to regarding technical issues with course registration?",
+    "relevant_chunk_id": "table_24",
+    "chunk_type": "table"
+  }
+]
