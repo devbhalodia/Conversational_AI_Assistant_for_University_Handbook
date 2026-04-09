@@ -4,23 +4,6 @@ A production-grade conversational retrieval-augmented generation (RAG) system th
 
 ---
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Architecture](#architecture)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Usage](#usage)
-- [Ingestion Pipeline](#ingestion-pipeline)
-- [RAG Inference Pipeline](#rag-inference-pipeline)
-- [Evaluation](#evaluation)
-- [Performance Metrics](#performance-metrics)
-- [Design Decisions](#design-decisions)
-- [Contributing](#contributing)
-
----
-
 ## Overview
 
 This project builds a domain-specific conversational chatbot over the Ahmedabad University student handbook PDF. The system employs a multi-stage RAG architecture that goes beyond naive vector search — it combines layout-aware document parsing, LLM-powered table enrichment, hierarchical text chunking, Max Marginal Relevance retrieval, cross-encoder reranking, and a query rewriting module to support natural multi-turn conversations.
