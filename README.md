@@ -1,4 +1,4 @@
-# Ahmedabad University Student Handbook — RAG Chatbot
+# Student Handbook — RAG Chatbot
 
 A production-grade conversational retrieval-augmented generation (RAG) system that transforms the Ahmedabad University student handbook into a fully searchable, conversational knowledge base. The system supports multi-turn dialogue, semantic retrieval, cross-encoder reranking, and automated evaluation.
 
@@ -19,7 +19,7 @@ An offline evaluation suite measures both retrieval quality (Recall@K, MRR) and 
 
 ## Architecture
 
-![High level architecture](assets/rag_architecture.png)
+![High level architecture](assets/RAG_PIPELINE.png)
 
 ---
 
